@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
