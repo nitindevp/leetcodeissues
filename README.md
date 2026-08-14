@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/nitindevp/leetcodeissues/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/nitindevp/leetcodeissues/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/nitindevp/leetcodeissues/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
