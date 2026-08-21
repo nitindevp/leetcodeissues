@@ -1,5 +1,5 @@
 class Solution:
-    def threeSum(self, nums: list[int]):
+    def threeSum(self, nums):
         nums.sort()
         result = []
         
@@ -24,7 +24,7 @@ class Solution:
                         
                     left += 1
                     right -= 1
-                    
+                     
                 elif total < 0:
                     left += 1
                     
@@ -37,3 +37,5 @@ sol = Solution()
 print(sol.threeSum(nums))
                 
     
+     
+        
