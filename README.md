@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nitindevp/leetcodeissues/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitindevp/leetcodeissues/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/nitindevp/leetcodeissues/tree/master/0904-fruit-into-baskets) |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nitindevp/leetcodeissues/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nitindevp/leetcodeissues/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
