@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nitindevp/leetcodeissues/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitindevp/leetcodeissues/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/nitindevp/leetcodeissues/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitindevp/leetcodeissues/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitindevp/leetcodeissues/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nitindevp/leetcodeissues/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/nitindevp/leetcodeissues/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitindevp/leetcodeissues/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitindevp/leetcodeissues/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/nitindevp/leetcodeissues/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -59,8 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitindevp/leetcodeissues/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitindevp/leetcodeissues/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitindevp/leetcodeissues/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitindevp/leetcodeissues/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
