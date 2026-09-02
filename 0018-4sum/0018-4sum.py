@@ -36,6 +36,9 @@ class Solution:
 
         return result
 
+num = [-1,0,1,2,-1,-4]
+sol = Solution()
+print(sol.fourSum(num, 0))
 
 
         
