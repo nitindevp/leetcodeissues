@@ -1,20 +1,29 @@
 class Solution:
     def findUnsortedSubarray(self, nums):
-        sorted_nums = sorted(nums)
+        n = len(nums)
 
-        left = 0
-        right = len(nums) - 1
+        left = -1
+        right = -1
 
-        while left < len(nums) and nums[left] == sorted_nums[left]:
-            left += 1
+        max_seen = nums[0]
 
-        if left == len(nums):
+        # Left → Right
+        for i in range(n):
+            if nums[i] < max_seen:
+                right = i
+            else:
+                max_seen = nums[i]
+
+        min_seen = nums[n - 1]
+
+        # Right → Left
+        for i in range(n - 1, -1, -1):
+            if nums[i] > min_seen:
+                left = i
+            else:
+                min_seen = nums[i]
+
+        if left == -1:
             return 0
 
-        while nums[right] == sorted_nums[right]:
-            right -= 1
-
         return right - left + 1
-nums = [2, 6, 4, 8, 10, 9, 15]
-sol = Solution()
-print(sol.findUnsortedSubarray(nums))
